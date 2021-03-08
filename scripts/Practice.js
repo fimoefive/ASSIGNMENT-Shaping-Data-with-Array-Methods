@@ -1,4 +1,4 @@
-import { customers } from './data.js';
+import { customers, businesses } from './data.js';
 
 /* ********************  I  *********************  */
 
