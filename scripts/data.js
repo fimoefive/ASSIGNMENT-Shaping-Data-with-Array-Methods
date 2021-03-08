@@ -127,11 +127,6 @@ export const candies = [
   }
 ];
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 394d75f2a6769c3ad507dfeeee8433cb20aa9d31
 export let customers = [
   {
     "location": {
